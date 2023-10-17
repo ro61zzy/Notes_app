@@ -24,12 +24,11 @@ export default function Page() {
           />
         </View>
         <View style={styles.text}>
-          <Text style={styles.title}>Gets things with TODs</Text>
+          <Text style={styles.title}>Gets things Done with TODOs</Text>
           <Text style={styles.subtitle}>
-            Lorem ipsum dolor sit amet consectetur. Eget sit nec et euismod.
-            Consequat urna quam felis interdum quisque. Malesuada adipiscing
-            tristique ut eget sed.
-          </Text>
+  Welcome to your personal task manager. Keep track of your daily tasks, goals, and accomplishments. 
+  Organize your life with ease, prioritize your to-dos, and enjoy a productive day.
+</Text>
         </View>
         <View  style={styles.btncontainer}>
           <TouchableOpacity
